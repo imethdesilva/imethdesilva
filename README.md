@@ -1,6 +1,6 @@
 <h1 align="">Imeth De Silva</h1>
 <h3 align="">A Software Engineering Undergrad :0</h3>
-<p>Likes cats and drums</p>
+<p>Imeth likes cats and drums</p>
 
 - 🌱 currently learning **Unity, Databases and OOP**
 
