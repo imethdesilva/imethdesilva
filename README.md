@@ -1,9 +1,9 @@
-<h1 align="">Hi 👋, I'm Imeth De Silva</h1>
+<h1 align="">Imeth De Silva</h1>
 <h3 align="">A Software Engineering Undergrad :0 <br> Like cats and drums</h3>
 
-- 🌱 I’m currently learning **Unity, Databases and OOP**
+- 🌱 currently learning **Unity, Databases and OOP**
 
-- 📫 How to reach me **imethdesilva@gmail.com**
+- 📫 **imethdesilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
