@@ -1,7 +1,6 @@
 
-##<!--
-<h1 align="center">Hi 👋, I'm Imeth De Silva</h1>
-<h3 align="center">A Software Engineering Undergrad :0</h3>
+<h1 align="">Hi 👋, I'm Imeth De Silva</h1>
+<h3 align="">A Software Engineering Undergrad :0</h3>
 
 
 - 🌱 I’m currently learning **Unity, Databases and OOP**
@@ -18,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imethdesilva&show_icons=true&locale=en&layout=compact" alt="imethdesilva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imethdesilva&show_icons=true&locale=en" alt="imethdesilva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imethdesilva&" alt="imethdesilva" /></p>
