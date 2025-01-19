@@ -1,10 +1,8 @@
 <h1 align="">Imeth De Silva</h1>
 <h3 align="">A Software Engineering Undergrad :0</h3>
 <p>Imeth likes cats and drums</p>
-
-- 🌱 currently learning **Unity, Databases and OOP**
-
-- 📫 **imethdesilva@gmail.com**
+🌱 currently learning **Unity, Databases and OOP**
+📫 **imethdesilva@gmail.com**
 
 <h3 align="left">Links:</h3>
 <p align="left">
