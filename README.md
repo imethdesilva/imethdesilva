@@ -1,9 +1,6 @@
 <h1 align="">Imeth De Silva</h1>
 <h3 align="">A Software Engineering Undergrad :0</h3>
 <p>Imeth likes cats and drums</p>
-🌱 currently learning **Unity, Databases and OOP**
-📫 **imethdesilva@gmail.com**
-
 <h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/imeth-de-silva-364272228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imeth-de-silva-364272228" height="30" width="40" /></a>
