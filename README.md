@@ -64,4 +64,4 @@
 ###
 
 Currently learning new tech stacks and involved in a few projects.
-Palmingo, GuideMyHike, MuuMuus
+(Palmingo, GuideMyHike, MuuMuus)
