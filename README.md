@@ -62,3 +62,5 @@
 </div>
 
 ###
+
+currently learning new tech stacks and involved in a few projects.
