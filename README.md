@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="left">👩‍💻  About Me</h1>
+<h1 align="left">About Me</h1>
 
 ###
 
-<p align="left">- 🔭 Aspiring Software Engineer<br>- 📚 Passionate about learning new tech and cool stuff<br>- ⚡ In my free time I play Scrabble, Chess or Drums<br>- 🐈 When I'm not doing any of those, I'm hanging out with my cat</p>
+<p align="left">Aspiring Software Engineer<br>Passionate about learning new tech and cool stuff<br>In my free time I play Scrabble, Chess or Drums<br>🐈 When I'm not doing any of those, I'm hanging out with my cat</p>
 
 ###
 
